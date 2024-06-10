@@ -1,6 +1,7 @@
 {
 	"author": "Emil isak Lundqvist",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This is a test for FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
