@@ -2,7 +2,7 @@
 	"author": "Emil isak Lundqvist",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is a test for FreeCodeCamp",
-	"keywords": ["Epic","Awsome","Cheap","Smart","FreeCodeCamp"],
+	"keywords": ["Epic","Awsome","Cheap","Smart","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
